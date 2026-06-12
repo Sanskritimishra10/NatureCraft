@@ -125,7 +125,7 @@ function Address() {
                 onClick={() => setIsEditing(true)}
                 className="px-5 py-2 rounded-lg bg-green-700 text-white text-sm hover:bg-green-800 transition"
               >
-                Edit
+                Edit Address
               </button>
             </div>
           )}
