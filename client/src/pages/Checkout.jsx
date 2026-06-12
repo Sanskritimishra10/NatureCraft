@@ -275,7 +275,7 @@ function Checkout() {
                 onClick={placeOrder}
                 className="mt-4 w-full bg-green-700 text-white py-3 rounded-xl"
               >
-                Proceed to Payment
+                Proceed to Payment Gateway
               </button>
             </div>
           )}
