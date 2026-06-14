@@ -301,7 +301,7 @@ function Checkout() {
             onClick={placeOrder}
             className="mt-6 mx-auto block bg-green-700 text-white px-6 py-2 rounded-md text-sm hover:bg-green-800 transition"
           >
-            Continue
+            Continue Checkout
           </button>
         </div>
       </div>
