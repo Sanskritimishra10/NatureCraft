@@ -7,7 +7,7 @@ require("dotenv").config();
 const connectDB = require("./config/db");
 const Product = require("./models/Product");
 const authRoutes = require("./routes/auth");
-const cartRoutes = require("./routes/Cart");
+const cartRoutes = require("./routes/cart");
 const orderRoutes = require("./routes/order");
 
 const app = express();
